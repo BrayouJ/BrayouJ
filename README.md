@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! My name is Brayan Jaozafy 👋
 
 <!--
 **BrayouJ/BrayouJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I am a Game Designer learning programming to improve my skills and one day create my own games.
+- I am currently studying multiple languages in my MSc Pro class at Epitech (such as Python, and Java) as well as other, more game dev focused ones in my free time.
