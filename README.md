@@ -16,7 +16,7 @@ Hello! My name is Brayan Jaozafy 👋, a **game designer** learning programming 
 
 ![image](https://github.com/user-attachments/assets/1cd0c554-8217-4b2d-8cc8-a4e600c52244)
 
-**[Link to the project repository](https://github.com/username/project-name)**
+**[Link to the project repository]([https://github.com/username/project-name](https://github.com/BrayouJ/Projet_Job_Board))**
 
 ## Skills Gained
 - **Programming Languages**: [Python, HTML, Java]
