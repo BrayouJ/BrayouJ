@@ -14,8 +14,6 @@ I am a **game designer** learning programming to improve my skills and one day c
   - Posting job advertisements
   - Applying for jobs
 
-![image](https://github.com/user-attachments/assets/1cd0c554-8217-4b2d-8cc8-a4e600c52244)
-
 **[Link to the project repository](https://github.com/BrayouJ/Projet_Job_Board)**
 
 ## Skills Gained
