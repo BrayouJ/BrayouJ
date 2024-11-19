@@ -17,12 +17,10 @@ I am a **game designer** learning programming to improve my skills and one day c
 **[Link to the project repository](https://github.com/BrayouJ/Projet_Job_Board)**
 
 ## Skills Gained
-- **Programming Languages**: [Python, HTML, Java]
-- **Game Development Tools**: [Unity, Unreal Engine, Godot]
-- **Concepts Learned**:
-  - Web Development
-  - Handling Databases
-  - Object-oriented programming principles
+### **Programming Languages**
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,cs)](https://skillicons.dev)
+### **Developer Tools**
+[![My Skills](https://skillicons.dev/icons?i=unity,unreal,godot,blender,figma,ps,pr,ae,ai,express,mysql,postman,git)](https://skillicons.dev)
 
 ## Future Plans
 I am committed to improving my programming skills and expanding my project portfolio. My upcoming goals include:
