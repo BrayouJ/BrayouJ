@@ -18,9 +18,18 @@ I am a **game designer** learning programming to improve my skills and one day c
 
 ## Skills Gained
 ### **Programming Languages**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,cs)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,java,cs&perline=3" />
+  </a>
+</p>
+
 ### **Developer Tools**
-[![My Skills](https://skillicons.dev/icons?i=unity,unreal,godot,blender,figma,ps,pr,ae,ai,express,mysql,postman,git)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=express,mysql,postman,git,unity,unreal,godot,blender,ps,pr,ae,ai,obsidian,figma,notion&perline=4" />
+  </a>
+</p>
 
 ## Future Plans
 I am committed to improving my programming skills and expanding my project portfolio. My upcoming goals include:
