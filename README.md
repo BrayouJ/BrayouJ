@@ -2,7 +2,7 @@
 
 ## Hello! My name is Brayan Jaozafy 👋
 
-I am a **game designer** learning programming to improve my skills and one day create my own games. I am currently studying multiple languages in my MSc Pro class at Epitech (such as Python, and Java) as well as other, more game dev focused ones in my free time. This README serves as a showcase of my evolving portfolio, documenting my progress as I bridge creativity and code.
+I am a **Programming Student** with a background in **Game Design**, here to improve my skills and one day create my own games. I am currently studying multiple languages in my MSc Pro class at Epitech (such as Python, and Java) as well as other, more game dev focused ones in my free time. This README serves as a showcase of my evolving portfolio, documenting my progress as I bridge creativity and code.
 
 ## Projects
 
