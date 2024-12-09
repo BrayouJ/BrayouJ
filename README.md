@@ -27,7 +27,7 @@ I am a **Programming Student** with a background in **Game Design**, here to imp
 ### **Developer Tools**
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=express,mysql,postman,git,unity,unreal,godot,blender,ps,pr,ae,ai,obsidian,figma,notion&perline=4" />
+   <img src="https://skillicons.dev/icons?i=express,mysql,postman,git,unity,unreal,godot,blender,ps,pr,ae,ai,react,obsidian,figma,notion&perline=4" />
   </a>
 </p>
 
